@@ -1,4 +1,4 @@
 a=5
-b=44
+b=77
 toplam=a+b
 print(toplam)

@@ -1,3 +1,4 @@
 a=5
-b=8
+b=44
 toplam=a+b
+print(toplam)
